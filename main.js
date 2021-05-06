@@ -1547,4 +1547,6 @@ const quotes = [
         ]
     }
 ]
- console.log(quotes[0]["quote"])
+const rndNum = Math.floor(Math.random() * quotes.length)
+
+console.log(quotes[rndNum]["quote"])
