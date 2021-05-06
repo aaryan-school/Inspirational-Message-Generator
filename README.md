@@ -1,7 +1,7 @@
  Inspirational Quote Generator
 ================================
 ## This is a quick project I created for my course on javascript
-#
+
 
 ## **Installation**:
 ```shell
